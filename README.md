@@ -1,4 +1,4 @@
-# New Project
+# ToDo project with TS.
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
@@ -19,6 +19,10 @@ Your app is ready to be deployed!
 
 **For the best production performance:** Add a build bundler plugin like [@snowpack/plugin-webpack](https://github.com/snowpackjs/snowpack/tree/main/plugins/plugin-webpack) or [snowpack-plugin-rollup-bundle](https://github.com/ParamagicDev/snowpack-plugin-rollup-bundle) to your `snowpack.config.mjs` config file.
 
-### Q: What about Eject?
-
-No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+### Q: What about this project?
+After finished a course about TypeScript I started a simple ToDo project to practice what I've learned about topics like: 
+*Types
+*Typed
+*Union types
+*Function return
+*Libraries that support TypeScript
